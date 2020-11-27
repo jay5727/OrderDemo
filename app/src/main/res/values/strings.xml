@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Orders</string>
+    <string name="delivery_return">DELIVERY/RETURN</string>
+    <string name="online">ONLINE</string>
+    <string name="offline">OFFLINE</string>
+    <string name="no_loc_found">No Location found...!</string>
+    <string name="no_phone_number_found">No Phone Number found...!</string>
+    <string name="orders">Orders</string>
+</resources>
